@@ -15,6 +15,9 @@ h3 {
 }
 
 hr {
-    border-style: dotted;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: #00ADB5;
     width: 10%;    
 }
