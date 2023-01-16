@@ -18,9 +18,11 @@ h1 {
 }
 
 .middle-container {
+    background-color: #EEEEEE;
 }
 
 .bottom-container {
+    background-color: #00ADB5;
 }
 
 .top-cloud {
@@ -33,4 +35,9 @@ h1 {
     position: absolute;
     left: 300px;
     bottom: 300px;
+}
+
+#profile {
+    border-radius: 50%;
+    width: 250px;
 }
